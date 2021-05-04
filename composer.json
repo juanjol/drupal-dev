@@ -8,6 +8,7 @@
             "email": "omar.lopesino@metadrop.net"
         }
     ],
+    "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
         "bex/behat-step-time-logger": "^2.0",
