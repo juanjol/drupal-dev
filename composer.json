@@ -1,0 +1,23 @@
+{
+    "name": "metadrop/drupal-dev",
+    "description": "Development dependencies for Drupal projects on top of drupal/core-dev",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Omar",
+            "email": "omar.lopesino@metadrop.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "bex/behat-step-time-logger": "^2.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+        "drupal/core-dev": "^9.1",
+        "drupal/devel": "^4.0",
+        "edgedesign/phpqa": "^1.23",
+        "metadrop/behat-contexts": "^1.0",
+        "metadrop/grumphp-drupal-check": "^0.3.0",
+        "metadrop/scripthor": "^1.0",
+        "phpmd/phpmd": "^2.9"
+    }
+}
