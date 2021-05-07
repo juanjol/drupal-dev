@@ -20,6 +20,6 @@
         "metadrop/grumphp-drupal-check": "^0.3.0 || ^0.2.0",
         "metadrop/scripthor": "^1.0",
         "phpmd/phpmd": "^2.9",
-        "phpspec/prophecy-phpunit": "^2"
+        "phpspec/prophecy-phpunit": "^2 || ^1"
     }
 }
