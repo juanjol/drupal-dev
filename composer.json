@@ -13,7 +13,7 @@
     "require": {
         "bex/behat-step-time-logger": "^2.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
-        "drupal/core-dev": "^9 || ^8",
+        "drupal/core-dev": "^9",
         "drupal/devel": "^4.0",
         "edgedesign/phpqa": "^1.23",
         "metadrop/behat-contexts": "^1.0",
