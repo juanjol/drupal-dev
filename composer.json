@@ -21,6 +21,7 @@
         "metadrop/scripthor": "^1.0 || ^2",
         "phpspec/prophecy-phpunit": "^2 || ^1",
         "php-parallel-lint/php-parallel-lint": "^1.3",
-        "drupal/behat_javascript": "^1.0"
+        "drupal/behat_javascript": "^1.0",
+        "metadrop/drupal-updater": "^1.0"
     }
 }
