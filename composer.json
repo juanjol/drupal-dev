@@ -1,11 +1,15 @@
 {
-    "name": "metadrop/drupal-dev",
+    "name": "juanjol/drupal-dev",
     "description": "Development dependencies for Drupal projects on top of drupal/core-dev",
     "type": "metapackage",
     "authors": [
         {
             "name": "Omar",
             "email": "omar.lopesino@metadrop.net"
+        },
+        {
+            "name": "Juanjo López",
+            "email": "juanjo.lopez@metadrop.net"
         }
     ],
     "license": "GPL-2.0-or-later",
